@@ -1,0 +1,19 @@
+# Story Writing Skill Configuration
+
+## Configuration Options
+- **Title:** The title of the story.
+- **Genre:** The genre (e.g., fantasy, mystery, romance).
+- **Setting:** A brief description of the story's setting.
+- **Main Character:** Details about the protagonist.
+- **Conflict:** The main problem the character faces.
+
+## Example
+```json
+{
+  "title": "A Journey Through Time",
+  "genre": "Science Fiction",
+  "setting": "A futuristic city in the year 3026.",
+  "mainCharacter": "Alex, a time traveler.",
+  "conflict": "Alex must stop a villain from altering history."
+}
+```
